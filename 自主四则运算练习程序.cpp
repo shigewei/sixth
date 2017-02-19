@@ -7,8 +7,8 @@ int main()
 	void zero();
 	void fraction();
 	void kuohao();
-	int max(int a,int b);  //最大公约数函数声明
-	int min(int a,int b);  //最小公倍数函数声明
+	int max(int a,int b);  //最大公约数函数的声明
+	int min(int a,int b);  //最小公倍数函数的声明
     int sum,i,swit,total,total2,style;
 	float right,sum2;
 	srand((unsigned int)time(NULL)); //设置随机数种子 
